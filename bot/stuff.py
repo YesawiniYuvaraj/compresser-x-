@@ -34,7 +34,7 @@ async def start(event):
             [Button.inline("HELP", data="ihelp")],
             [
                 Button.url("SOURCE CODE", url="https://github.com/YesawiniYuvaraj/compresser-x-"),
-                Button.url("DEVELOPER", url="t.me/Yuvi1poke_lover"),
+                Button.url("DEVELOPER", url="t.me/yuvi1poke_lover"),
             ],
         ],
     )
@@ -60,7 +60,7 @@ async def beck(event):
             [Button.inline("HELP", data="ihelp")],
             [
                 Button.url("SOURCE CODE", url="https://github.com/YesawiniYuvaraj/compresser-x-"),
-                Button.url("DEVELOPER", url="t.me/Yuvi1poke_lover),
+                Button.url("DEVELOPER", url="t.me/yuvi1poke_lover),
             ],
         ],
     )
