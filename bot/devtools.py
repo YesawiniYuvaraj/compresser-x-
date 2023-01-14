@@ -13,7 +13,7 @@
 # License can be found in <
 # https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
 
-from .stuff import *
+from .stuff edit import *
 
 
 async def eval(event):
