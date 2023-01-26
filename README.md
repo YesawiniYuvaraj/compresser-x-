@@ -3,6 +3,11 @@
 ### Fork Repo Then click on below button of ur fork repo.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YesawiniYuvaraj/compresser-x-)
 
+## Deploy To Render 
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YesawiniYuvaraj/compresser-x-)
+
+
 ### Variables
 `APP_ID` `API_HASH` `BOT_TOKEN`
 
