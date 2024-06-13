@@ -18,9 +18,9 @@ from decouple import config
 try:
     APP_ID = config("APP_ID", default=18990697, cast=int)
     API_HASH = config("API_HASH", default="f4815b9a16cb03c2f5eabe8db1cb0903")
-    BOT_TOKEN = config("5603895273:AAH_OWCXHDvEk4pIVZFqqDTIMnqJ37HP5O0")
-    DEV = 5261482689
-    OWNER = config("5261482689")
+    BOT_TOKEN = config("6574755955:AAFr3tBM_bnzpBVWTNFysU1MV5RyKGe_kck")
+    DEV = 6651534688
+    OWNER = config("6651534688")
     FFMPEG = config(
         "FFMPEG",
         default='ffmpeg -i "{}" -preset ultrafast -c:v libx265 -crf 27 -map 0:v -c:a aac -map 0:a -c:s copy -map 0:s? "{}"',
