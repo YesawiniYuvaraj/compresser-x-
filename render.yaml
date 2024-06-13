@@ -4,7 +4,7 @@ services:
     name: CompresserQueue
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python3 -m bot
     repo: https://github.com/YesawiniYuvaraj/compresser-x-.git      
     branch: main
     envVars:
