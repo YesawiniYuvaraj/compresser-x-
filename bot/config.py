@@ -13,7 +13,7 @@
 # License can be found in <
 # https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
 
-from decouple import config
+import config
 
 try:
     APP_ID = config("APP_ID", default=18990697, cast=int)
