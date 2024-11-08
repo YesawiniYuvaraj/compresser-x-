@@ -1,5 +1,6 @@
 aiohttp
 python-decouple
+python-decouple
 psutil
 tgcrypto
 lxml_html_clean
