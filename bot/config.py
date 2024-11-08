@@ -1,4 +1,7 @@
- from decouple import config
+from decouple import Config
+
+# Initialize Config object
+config = Config()
 
 try:
     # App credentials
